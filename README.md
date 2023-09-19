@@ -1,6 +1,6 @@
 # La 13-14
 
-![Entrada del programa](images/tiempoMemoria.png)
+![Tiempo y memoria a consumir máximos](images/tiempoMemoria.png)
 
 "Hacer la 13−14" es una expresión coloquial habitual para indicar que una persona ha hecho a otra una trastada. Su origen está en una novatada que se hacía en los talleres mecánicos a los aprendices, a los que se mandaba a por la "llave 13−14", es decir la que tuviera en un extremo un calibre de 13 milímetros, y en otro uno de 14.
 
